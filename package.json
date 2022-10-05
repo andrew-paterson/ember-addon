@@ -36,7 +36,8 @@
     "ember-test-selectors": "^3.0.0",
     "ember-truth-helpers": "2.0.0",
     "ember-uuid": "^2.1.0",
-    "ember-window-mock": "^0.5.4"
+    "ember-window-mock": "^0.5.4",
+    "npm-package": "git+ssh://git@github.com/andrew-paterson/npm-package.git#a7189b35c7bfdf933e02f0071c2c4ef9c32d706d"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",

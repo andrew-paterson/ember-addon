@@ -1,6 +1,5 @@
 import { visit, currentURL } from '@ember/test-helpers';
-import countries from 'ember-addon/test-support/data-stubs/countries';
-// import countries from 'npm-module/data-stubs/countries';
+import countries from 'npm-package/data-stubs/countries';
 
 export default [{
   title: 'Index',
